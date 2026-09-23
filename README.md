@@ -1,1 +1,2 @@
-# ugeopgave-4-objects-and-lists
+# Mathias Jacob Steenvinkel
+# mast1006@stud.ek.dk
